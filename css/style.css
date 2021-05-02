@@ -96,7 +96,7 @@ body {
     position: absolute;
     width: 65px;
     height: 65px;
-    background: #fff url(img/play.svg) center no-repeat;
+    background: #fff url(../img/play.svg) center no-repeat;
     right: 0;
     top: 0;
     border-radius: 50%;
@@ -153,18 +153,18 @@ body {
     display: inline-block;
     width: 12px;
     height: 12px;
-    background: url(img/star.svg) no-repeat center;
+    background: url(../img/star.svg) no-repeat center;
 }
 
 .star-o {
-    background: url(img/emptystar.svg) no-repeat center;
+    background: url(../img/emptystar.svg) no-repeat center;
 }
 
 .slider__nav--left {
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url("img/left-arrow.svg") no-repeat center;
+    background: transparent url("../img/left-arrow.svg") no-repeat center;
     cursor: pointer;
 }
 
@@ -173,7 +173,7 @@ body {
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url("   img/right-arrow.svg") no-repeat center;
+    background: transparent url("../img/right-arrow.svg") no-repeat center;
     cursor: pointer;
 }
 
