@@ -10,7 +10,7 @@
     box-sizing: border-box;
 } 
 body {
-    background: #010101 url(img/main-bg.jpg) top right -170% no-repeat;
+    background: #010101 url(/img/main-bg.jpg) top right -170% no-repeat;
     background-size: contain;
     background-attachment: fixed;  
     color: #fff;
@@ -173,7 +173,7 @@ body {
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url("img/right-arrow.svg") no-repeat center;
+    background: transparent url("   img/right-arrow.svg") no-repeat center;
     cursor: pointer;
 }
 
